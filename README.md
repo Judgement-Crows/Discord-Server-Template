@@ -1,4 +1,4 @@
 # Discord-Server-Template
 our server template
 
-https://discord.new/g5AzzWkeWU6s
+https://discord.new/sVRC2w9WbajG
